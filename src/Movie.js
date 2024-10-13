@@ -58,7 +58,7 @@ class Movie extends React.Component {
             </ul>
           </div>
           <div className="col-6">
-            <img src={Poster} className="img-fluid" />
+            <img src={Poster} className="img-fluid" alt="poster img" />
           </div>
         </div>
       </div>
